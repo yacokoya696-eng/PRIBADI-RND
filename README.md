@@ -1,8 +1,5 @@
 # PRIBADI-RND
 
-# RND105
-
-# RND102
 
 Whitelabel Error Page
 
